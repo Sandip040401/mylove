@@ -1,0 +1,31 @@
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: center;
+    margin: 0 auto 30px;
+    max-width: 600px;
+  }
+  h2 {
+    font-size: 36px;
+    font-family: 'Satisfy', cursive;
+    margin: 50px 0 30px;
+    padding-top: 20px;
+    text-align: center;
+  }
+  h1 {
+    font-size: 48px;
+    font-family: 'Satisfy', cursive;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+  }
+  img {
+    max-width: 25%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
